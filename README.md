@@ -13,6 +13,19 @@ Technical Summary Includes below information
 ## Contents
 
 ##### Problem Statement 
+Bike sharing systems have become a popular mode of transportation in many cities, providing a low-cost and 
+environmentally-friendly option for commuters. However,bike sharing companies face the challenge of predicting
+the demand for bikes at different times and locations, in order to optimize their inventory and ensure that bikes are
+available when and where they are needed. The problem statement is to develop a model that accurately predicts the demand for bikes based on
+historical data on factors such as time, weather, and location. This model will help bike sharing companies to make data-driven decisions about inventory management and pricing, and ultimately improve the user experience for riders.
+
+##### Objective
+The goal of predicting bike sharing demand is to accurately forecast the number of bikes that will be rented
+out at different times and locations, based on historical data and other relevant factors. This will help bike sharing
+companies to optimize their inventory and pricing strategies, and ensure that bikes are available when and
+where they are needed. Ultimately, the goal is to improve the user experience for riders by providing a reliable and
+convenient mode of transportation that meets their needs.
+
 ##### Data Summary
 ##### Dataset Description
 ##### Exploratory Data Analysis 
