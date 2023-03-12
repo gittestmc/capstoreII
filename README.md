@@ -4,8 +4,11 @@ Bike Sharing Demand Prediction
 
 ## Details about the files
 NoteBook FileName: Capstone_Bike_Rental_Demand_Prediction.ipynb
+
 Notebook is exported as pdf: Capstone_Bike_Rental_Demand_Prediction.pdf
-Technical Summary : Capstore_Bike_Rental_Demand_Prediction_Technical_Summary.pdf 
+
+Technical Summary : Capstore_Bike_Rental_Demand_Prediction_Technical_Summary.pdf
+ 
 Technical Summary Includes below information
 ## Contents
 
